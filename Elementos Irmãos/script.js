@@ -1,0 +1,1 @@
+let selected=$('#div5').prevUntil('#div1')
